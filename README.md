@@ -13,16 +13,20 @@ npm install calmsoul
 var calmsoul = require("calmsoul");
 ```
 
+#### Settings
+
+CalmSoul is configured to report `log()` and `info()` messages. `debug()` is disabled by default.
+
+Default Settings:
+
+- log: true
+- debug: false
+- info: true
+
 
 ## Usage & Commands
 
 ### Set
-
-Defaults:
-* log: true
-* debug: false
-* info: true
-
 
 **Turn a single method on or off**
 
