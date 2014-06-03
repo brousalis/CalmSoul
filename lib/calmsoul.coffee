@@ -14,9 +14,7 @@ class CalmSoul
 
     for key, value of args
       property = "_#{key}"
-      # making sure one of the known properties is what is being asked for
       @[property] = value if @[property]?
-
 
 
   get: (prop) -> return @["_#{prop}"]
