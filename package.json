@@ -1,0 +1,34 @@
+{
+  "name": "calmsoul",
+  "version": "0.0.1",
+  "description": "Console logging wrapper to ease your development soul.",
+  "author": {
+    "name": "Kevin Altman (@itg)",
+    "email": "kevin@itsthatguy.com"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/isthatguy/CalmSoul"
+  },
+  "issues": {
+    "bugs": "https://github.com/itsthatguy/CalmSoul/issues"
+  },
+  "main": "./lib/calmsoul",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "logger",
+    "calm",
+    "soul",
+    "debug",
+    "info",
+    "debugger"
+  ]
+}
