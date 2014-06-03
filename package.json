@@ -1,6 +1,6 @@
 {
   "name": "calmsoul",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Console logging wrapper to ease your development soul.",
   "author": {
     "name": "Kevin Altman (@itg)",
