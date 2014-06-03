@@ -18,7 +18,6 @@ var calmsoul = require("calmsoul");
 CalmSoul is configured to report `log()` and `info()` messages. `debug()` is disabled by default.
 
 Default Settings:
-
 - log: true
 - debug: false
 - info: true
